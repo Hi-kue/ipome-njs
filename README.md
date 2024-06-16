@@ -1,36 +1,99 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<a name="readme-top"></a>
+
+<br />
+<div align="center">
+  <a href="/url">
+    <img src="./docs/ipome-njs-logo.png" alt="Ipome-njs Logo" height="200">
+  </a>
+
+<h3 align="center">
+    Ipome Next.js Dashboard
+</h3>
+
+  <p>
+    Sleek and modern dashboard template crafted with Next.js and Tailwind CSS,
+    coupled with Firebase for authentication and data storage. This comprehensive
+    dashboard can seamlessly integrate with a wealth of information, providing
+    an overview of your application's data in a visually sound, stunning, and 
+    highly functional interface.
+    <br />
+    <br />
+    <a href="/url">View Demo</a>
+    ✱
+    <a href="https://github.com/Hi-kue/ipome-njs/issues">Report Bug</a>
+    ✱
+    <a href="https://github.com/Hi-kue/ipome-njs/issues">Request Feature</a>
+    ✱
+    <a href="./docs/url">Documentation</a>
+  </p>
+</div>
+<div align="center">
+    <!-- Build Status & Other Information -->
+    <a href="/url">
+        <img src="https://img.shields.io/github/issues/Hi-kue/ipome-njs" alt="Issues">
+    </a>
+    <a href="/url">
+        <img src="https://img.shields.io/github/forks/Hi-kue/ipome-njs" alt="Forks">
+    </a>
+    <a href="/url">
+        <img src="https://img.shields.io/github/stars/Hi-kue/ipome-njs" alt="Stars">
+    </a>
+    <a href="/url">
+        <img src="https://img.shields.io/github/license/Hi-kue/ipome-njs" alt="License">
+    </a>
+</div>
+<div align="center">
+    <!-- Badges & Built-With -->
+    <img src="https://img.shields.io/badge/firebase-white?style=for-the-badge&logo=firebase&logoColor=ffda0a" alt="Firebase">
+    <img src="https://img.shields.io/badge/-Docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+    <img src="https://img.shields.io/badge/-Sentry-560bad?style=for-the-badge&logo=sentry&logoColor=white" alt="Sentry">
+    <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next Js">
+    <img src="https://img.shields.io/badge/vercel-%23000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
+    <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
+    <img src="https://img.shields.io/badge/-TypeScript-%23007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+</div>
+<br />
 
 ## Getting Started
 
-First, run the development server:
+// TODO
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+<p align="right">(<a href="#readme-top">Back To Top</a>)</p>
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Installation
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+<img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" alt="NPM">
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+// TODO
 
-## Learn More
+<p align="right">(<a href="#readme-top">Back To Top</a>)</p>
 
-To learn more about Next.js, take a look at the following resources:
+## Usage
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+// TODO
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+<p align="right">(<a href="#readme-top">Back To Top</a>)</p>
 
-## Deploy on Vercel
+## Roadmap
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+// TODO
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+<p align="right">(<a href="#readme-top">Back To Top</a>)</p>
+
+## Contributing
+
+// TODO
+
+<p align="right">(<a href="#readme-top">Back To Top</a>)</p>
+
+## License
+
+This project is licensed under the GNU General Public License v3.0 - see the [LICENSE](LICENSE) file for details.
+
+<p align="right">(<a href="#readme-top">Back To Top</a>)</p>
+
+## Contact
+
+For any inquiries, please contact me at my [Email](mailto:hikue.primary@gmail). I would however, recommend that you raise an issue on the repo for any bugs or feature requests and they will be looked into as  soon as I am or anyone else is available to look through them.
+
+<p align="right">(<a href="#readme-top">Back To Top</a>)</p>
